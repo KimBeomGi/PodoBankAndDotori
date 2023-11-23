@@ -10,9 +10,9 @@
 <hr>
 
 ### 📌 포도은행과 도토리의 URL
-- [도토리 보러가기](https://lab.ssafy.com/s09-fintech-finance-sub2/S09P22D107/-/tree/develop/Dotori?ref_type=heads) 🐿
+- [도토리 보러가기](https://github.com/KimBeomGi/PodoBankAndDotori/tree/master/Dotori) 🐿
 
-- [포도은행 보러가기](https://lab.ssafy.com/s09-fintech-finance-sub2/S09P22D107/-/tree/develop/Podo_Bank?ref_type=heads) 🍇
+- [포도은행 보러가기](https://github.com/KimBeomGi/PodoBankAndDotori/tree/master/Podo_Bank) 🍇
 
 <hr>
 
